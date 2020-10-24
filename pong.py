@@ -2,7 +2,7 @@ import pygame, sys
 
 #SETUP
 pygame.init()
-clock pygame.time.Clock() #en mayúsculas
+clock = pygame.time.Clock() #en mayúsculas
 
 screen_width = 1080
 screen_height = 600
